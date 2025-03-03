@@ -1,0 +1,3 @@
+/Users/mironpomazkov/Desktop/yet_another_educational_cowsay/build/CMakeFiles/cowsay.dir
+/Users/mironpomazkov/Desktop/yet_another_educational_cowsay/build/CMakeFiles/edit_cache.dir
+/Users/mironpomazkov/Desktop/yet_another_educational_cowsay/build/CMakeFiles/rebuild_cache.dir
