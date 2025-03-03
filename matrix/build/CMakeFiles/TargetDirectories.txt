@@ -1,0 +1,3 @@
+/Users/mironpomazkov/Desktop/inf_2sem/cmake/build/CMakeFiles/matrix.dir
+/Users/mironpomazkov/Desktop/inf_2sem/cmake/build/CMakeFiles/edit_cache.dir
+/Users/mironpomazkov/Desktop/inf_2sem/cmake/build/CMakeFiles/rebuild_cache.dir
