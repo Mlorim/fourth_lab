@@ -1,0 +1,4 @@
+/Users/mironpomazkov/Desktop/inf_2sem/challenge/build/CMakeFiles/simple.dir
+/Users/mironpomazkov/Desktop/inf_2sem/challenge/build/CMakeFiles/challenging.dir
+/Users/mironpomazkov/Desktop/inf_2sem/challenge/build/CMakeFiles/edit_cache.dir
+/Users/mironpomazkov/Desktop/inf_2sem/challenge/build/CMakeFiles/rebuild_cache.dir
